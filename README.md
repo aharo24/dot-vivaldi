@@ -15,7 +15,7 @@
 
 ...`optional but STRONGLY recommended`
 - #### [alacritty](https://github.com/aharo24/dot-alacritty)
-- [starship](https://github.com/aharo24/dot-starship)
+- ### [starship](https://github.com/aharo24/dot-starship)
 
 
 # Installation with Homebrew
@@ -23,15 +23,15 @@
 .
 .
 Step 1
-Install starship: 
+Install vivaldi: 
 ``` brew
-brew install starship
+brew install --cask vivaldi
 ```
 .
 .
 .
 Step 2 
-Copy file:
+download my zip:
 my file to  `~/.config/starship.toml
 
 
