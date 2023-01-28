@@ -14,8 +14,8 @@
 ...Step 2:
 
 ...`optional but STRONGLY recommended`
-- # [alacritty](https://github.com/aharo24/dot-alacritty)
-- ## [starship](https://github.com/aharo24/dot-starship)
+- ### [alacritty](https://github.com/aharo24/dot-alacritty)
+- ### [starship](https://github.com/aharo24/dot-starship)
 
 
 # Installation with Homebrew
