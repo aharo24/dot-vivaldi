@@ -38,7 +38,7 @@ brew install --cask vivaldi
 
 
 ---
-## [dotfiles]((https://github.com/aharo24/opensource/tree/main/dotfiles)
+## [dotfiles](https://github.com/aharo24/opensource/tree/main/dotfiles)
 - Please 
 	- be patient (slowly merging all dotfiles for public use)
 
