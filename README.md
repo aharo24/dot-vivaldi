@@ -18,13 +18,14 @@
 - ### [starship](https://github.com/aharo24/dot-starship)
 
 
-# Installation with Homebrew
+# Installation Process
 ### ...Step 1:
 - ### Install vivaldi
 ``` brew
 brew install --cask vivaldi
 ```
-
+- if you already have vivaldi
+	- you can skip step one and move to step 2:
 ### ...Step 2: 
 - ### [download my zip](https://github.com/aharo24/dot-vivaldi/blob/main/resources/gruvbox-aharo24-vivaldi.zip)
 
