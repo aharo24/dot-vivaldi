@@ -20,7 +20,7 @@
 
 # Installation with Homebrew
 #### ...Step 1:
-Install vivaldi
+- #### Install vivaldi
 ``` brew
 brew install --cask vivaldi
 ```
@@ -29,9 +29,7 @@ brew install --cask vivaldi
 - ### [download my zip](https://github.com/aharo24/dot-vivaldi/blob/main/resources/gruvbox-aharo24-vivaldi.zip)
 
 #### ...step 3:
-**open** 
-
-### my zipped file
+- #### open my zipped file
 ![](z/aharo24_124.png)
 
 
