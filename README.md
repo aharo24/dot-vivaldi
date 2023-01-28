@@ -2,7 +2,7 @@
 Introducing my custom theme for Vivaldi, designed with the goal of maximizing productivity for tech-savvy users and programmers. This theme's color balance and sleek design will reduce eye strain for those who spend hours in front of the screen. Additionally, I've included a list of custom hotkeys, including shortcuts for the panel, window, dev, and tabs, which are inspired by popular text editors like nvim, vim, and emacs, making it easy for developers and power users to navigate the browser with ease.
 
 quick UI overview
-![](aharo24%202023-01-27%20at%209.52.16%20PM.png)
+![](z/aharo24%202023-01-27%20at%209.52.16%20PM.png)
 
 
 # Requirement
