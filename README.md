@@ -31,7 +31,7 @@ brew install --cask vivaldi
 
 ### ...step 3:
 - ### [open my zip file in your vivaldi theme settings](https://github.com/aharo24/dot-vivaldi/blob/main/resources/gruvbox-aharo24-vivaldi.zip)
-	- Open Theme... ---> gruvbox-aharo24.zip [open]
+	- Open Theme ---> gruvbox-aharo24.zip [open]
 ![](z/aharo24_124.png)
 
 
