@@ -2,7 +2,7 @@
 Introducing my custom theme for Vivaldi, designed with the goal of maximizing productivity for tech-savvy users and programmers. This theme's color balance and sleek design will reduce eye strain for those who spend hours in front of the screen. Additionally, I've included a list of custom hotkeys, including shortcuts for the panel, window, dev, and tabs, which are inspired by popular text editors like nvim, vim, and emacs, making it easy for developers and power users to navigate the browser with ease.
 
 ### UI overview
-![](z/aharo24%202023-01-27%20at%209.52.16%20PM.png)
+![](z/dot-vivaldi-UI.png)
 
 
 # Requirement
@@ -33,7 +33,7 @@ brew install --cask vivaldi
 ### ...step 3:
 - ### [open my zip file in your vivaldi theme settings](https://github.com/aharo24/dot-vivaldi/blob/main/resources/gruvbox-aharo24-vivaldi.zip)
 	- Open Theme ---> gruvbox-aharo24.zip ---> open
-![](z/aharo24_125.png)
+![](z/dot-vivaldi-usingtheme.png)
 
 ### ...step 4:
 - ### [look at my hotkeys](https://github.com/aharo24/dot-vivaldi/blob/main/resources/vivaldi-resources.md)
@@ -61,7 +61,7 @@ brew install --cask vivaldi
 - [vivaldi  ✅](https://github.com/aharo24/dot-vivaldi)
 - z
 
----
+
 
 ## [Contact Info](https://github.com/aharo24/opensource)
 
