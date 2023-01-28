@@ -3,35 +3,15 @@
 
 ### my hotkeys
 panel:
-	cmd+opt+m ---> mail
-	cmd+opt+l ---> list downloads
-	cmd+opt+y ---> history
-	cmd+opt+w ---> window
-	cmd+opt+w ---> translate
-	cmd+opt+s ---> calendar
-	cmd+opt+p ---> notes (pencil)
-
-
-
-
-| Command   | Description  |
-| ------------- | ------------- |
-| cmd+opt+m   | mail   |
-| cmd+opt+l   | list downloads   |
-| cmd+opt+y   | history   |
-| cmd+opt+w   | window   |
-| cmd+opt+s   | calendar   |
-| cmd+opt+p   | notes (pencil)   |
-
-
-
-
-
-
-
-
-
-
+| Command   | Description    |
+| --------- | -------------- |
+| cmd+opt+m | mail           |
+| cmd+opt+l | list downloads |
+| cmd+opt+y | history        |
+| cmd+opt+w | window         |
+| cmd+opt+s | calendar       |
+| cmd+opt+p | notes (pencil) |
+| missing   | translate      | 
 
 
 ### window:
@@ -55,22 +35,9 @@ panel:
 
 
 
-tabs:
+### tabs:
 | Command        | Description                          |
 | -------------- | ------------------------------------ |
 | cmd+opt+<-/--> | switch in between tabs left or right | 
 
 
-
-
-<details><summary>CLICK ME</summary>
-<p>
-
-#### We can hide anything, even code!
-
-```ruby
-   puts "Hello World"
-```
-
-</p>
-</details>
