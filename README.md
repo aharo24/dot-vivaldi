@@ -36,7 +36,7 @@ brew install --cask vivaldi
 ![](z/aharo24_125.png)
 
 ### ...step 4:
-- ### look at my hotkeys
+- ### [look at my hotkeys](https://github.com/aharo24/dot-vivaldi/blob/main/resources/vivaldi-resources.md)
 
 
 ---
