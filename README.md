@@ -19,22 +19,20 @@
 
 
 # Installation with Homebrew
-.
-.
-.
-Step 1
-Install vivaldi: 
+...Step 1:
+Install vivaldi
 ``` brew
 brew install --cask vivaldi
 ```
-.
-.
-.
-Step 2 
-download my zip:
-my file to  `~/.config/starship.toml
 
+...Step 2: 
+- ### [download my zip](https://github.com/aharo24/dot-vivaldi/blob/main/resources/gruvbox-aharo24-vivaldi.zip)
 
+...step 3:
+![](z/aharo24_124.png)
+open theme
+	--> my zipped file
+	
 
 
 ---
