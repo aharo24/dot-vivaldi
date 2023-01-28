@@ -31,8 +31,7 @@ brew install --cask vivaldi
 ...step 3:
 **open** 
 
->	my zipped file
-
+### my zipped file
 ![](z/aharo24_124.png)
 
 
@@ -56,7 +55,7 @@ brew install --cask vivaldi
 - [starship  ✅](https://github.com/aharo24/dot-starship)
 - sublime
 - tmux
-- vivaldi  ✅
+- [vivaldi  ✅](https://github.com/aharo24/dot-vivaldi)
 - z
 
 ---
