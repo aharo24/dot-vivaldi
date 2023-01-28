@@ -3,13 +3,35 @@
 
 ### my hotkeys
 panel:
-	_cmd+opt+m ---> calendar
-	_cmd+opt+l ---> list downloads
-	_cmd+opt+y ---> history
+	cmd+opt+m ---> mail
+	cmd+opt+l ---> list downloads
+	cmd+opt+y ---> history
 	cmd+opt+w ---> window
 	cmd+opt+w ---> translate
 	cmd+opt+s ---> calendar
 	cmd+opt+p ---> notes (pencil)
+
+
+
+
+| Command   | Description  |
+| ------------- | ------------- |
+| cmd+opt+m   | mail   |
+| cmd+opt+l   | list downloads   |
+| cmd+opt+y   | history   |
+| cmd+opt+w   | window   |
+| cmd+opt+s   | calendar   |
+| cmd+opt+p   | notes (pencil)   |
+
+
+
+
+
+
+
+
+
+
 
 
 window:
