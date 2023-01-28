@@ -1,5 +1,5 @@
 # dot-vivaldi
- This theme's color balance and sleek design will reduce eye strain for those who spend hours in front of the screen. 
+Introducing my custom theme for Vivaldi, designed with the goal of maximizing productivity for tech-savvy users and programmers. This theme's color balance and sleek design will reduce eye strain for those who spend hours in front of the screen. Additionally, I've included a list of custom hotkeys, including shortcuts for the panel, window, dev, and tabs, which are inspired by popular text editors like nvim, vim, and emacs, making it easy for developers and power users to navigate the browser with ease.
 
 
 
@@ -30,7 +30,7 @@ brew install --cask vivaldi
 - ### [download my zip](https://github.com/aharo24/dot-vivaldi/blob/main/resources/gruvbox-aharo24-vivaldi.zip)
 
 ### ...step 3:
-- ### open my zipped file
+- ### [open my zipped file](https://github.com/aharo24/dot-vivaldi/blob/main/resources/gruvbox-aharo24-vivaldi.zip)
 ![](z/aharo24_124.png)
 
 
